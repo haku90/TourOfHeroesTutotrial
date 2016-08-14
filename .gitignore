@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log
+
+# Typings file.
+typings/
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
